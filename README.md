@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1137-height-checker](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1137-height-checker) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [3427-special-array-ii](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3427-special-array-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [3427-special-array-ii](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3427-special-array-ii) |
 ## String
 |  |
 | ------- |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1137-height-checker) |
+## Prefix Sum
+|  |
+| ------- |
+| [3427-special-array-ii](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3427-special-array-ii) |
 <!---LeetCode Topics End-->
