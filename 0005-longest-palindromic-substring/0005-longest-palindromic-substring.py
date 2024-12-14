@@ -1,3 +1,4 @@
+#this is the bute force approach
 class Solution:
     def longestPalindrome(self, s: str) -> str:
         def isPalindrome(sub:str)->bool:
