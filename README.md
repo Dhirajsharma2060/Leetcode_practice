@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3427-special-array-ii](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3427-special-array-ii) |
+| [3534-count-almost-equal-pairs-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3534-count-almost-equal-pairs-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1044-find-common-characters) |
+| [3534-count-almost-equal-pairs-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3534-count-almost-equal-pairs-i) |
 ## Greedy
 |  |
 | ------- |
@@ -37,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1137-height-checker) |
+| [3534-count-almost-equal-pairs-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3534-count-almost-equal-pairs-i) |
 ## Counting Sort
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1137-height-checker) |
+| [3534-count-almost-equal-pairs-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3534-count-almost-equal-pairs-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -68,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Enumeration
+|  |
+| ------- |
+| [3534-count-almost-equal-pairs-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3534-count-almost-equal-pairs-i) |
 <!---LeetCode Topics End-->
