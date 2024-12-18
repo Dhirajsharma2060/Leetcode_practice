@@ -1,13 +1,21 @@
 class Solution:
-    def finalPrices(self, prices: List[int]) -> List[int]:
-        res=[]
-        for i in range(0,len(prices)):
-            discount = 0
-            for j in range(i+1,len(prices)):
-                if prices[j]<=prices[i]:
-                    discount=prices[j]
-                    break
-            res.append(prices[i] - discount)    
-        return res                
+    def finalPrices(self, prices: list[int]) -> list[int]:
+        stack = []
+        res = prices[:]  # Copy the original prices list
 
-        
+        for i in range(len(prices)):
+            # Process the stack to apply discounts
+            while stack and prices[stack[-1]] >= prices[i]:
+                index = stack.pop()
+                res[index] -= prices[i]
+            # Push current index to the stack
+            stack.append(i)
+
+        return res
+
+
+# Taking user input
+# if __name__ == "__main__":
+    # prices = list(map(int, input("Enter prices separated by spaces: ").split()))
+    # solution = Solution()
+    # print("Final Prices after Discount:", solution.finalPrices(prices))
