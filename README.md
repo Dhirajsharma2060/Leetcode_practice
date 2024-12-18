@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1044-find-common-characters](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1137-height-checker) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-count-almost-equal-pairs-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3534-count-almost-equal-pairs-i) |
+## Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
