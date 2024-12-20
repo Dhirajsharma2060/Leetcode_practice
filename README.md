@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0005-longest-palindromic-substring) |
 | [0205-isomorphic-strings](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0205-isomorphic-strings) |
+| [0392-is-subsequence](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1044-find-common-characters) |
 | [3379-score-of-a-string](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3379-score-of-a-string) |
@@ -67,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
