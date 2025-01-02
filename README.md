@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3427-special-array-ii](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3427-special-array-ii) |
 | [3534-count-almost-equal-pairs-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3534-count-almost-equal-pairs-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3427-special-array-ii](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3427-special-array-ii) |
 ## String
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0392-is-subsequence) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3534-count-almost-equal-pairs-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3534-count-almost-equal-pairs-i) |
 ## Stack
 |  |
