@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0494-target-sum) |
 | [0661-image-smoother](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0661-image-smoother) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1044-find-common-characters) |
@@ -51,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0169-majority-element) |
 | [1137-height-checker](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1137-height-checker) |
 | [3534-count-almost-equal-pairs-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3534-count-almost-equal-pairs-i) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0169-majority-element) |
 | [1137-height-checker](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1137-height-checker) |
 | [3534-count-almost-equal-pairs-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3534-count-almost-equal-pairs-i) |
 ## Prefix Sum
@@ -141,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0661-image-smoother](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0661-image-smoother) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
