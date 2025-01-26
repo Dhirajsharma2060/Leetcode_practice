@@ -166,10 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0338-counting-bits) |
 ## Trie
