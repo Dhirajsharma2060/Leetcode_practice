@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0189-rotate-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Enumeration
