@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0494-target-sum) |
 ## Matrix
