@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0342-power-of-four) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Trie
 |  |
