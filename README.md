@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3427-special-array-ii) |
 | [3534-count-almost-equal-pairs-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3534-count-almost-equal-pairs-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3799-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0817-design-hashmap) |
 | [1044-find-common-characters](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1044-find-common-characters) |
 | [3534-count-almost-equal-pairs-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3534-count-almost-equal-pairs-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3799-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3534-count-almost-equal-pairs-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3534-count-almost-equal-pairs-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3799-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3799-unique-3-digit-even-numbers) |
 ## Tree
 |  |
 | ------- |
