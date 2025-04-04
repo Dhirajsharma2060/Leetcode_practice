@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0494-target-sum) |
+| [1013-fibonacci-number](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1063-best-sightseeing-pair) |
 ## Math
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1013-fibonacci-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3799-unique-3-digit-even-numbers) |
 ## Tree
@@ -217,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0817-design-hashmap) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
