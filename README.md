@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1044-find-common-characters) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1894-merge-strings-alternately) |
 | [3194-find-words-containing-character](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3379-score-of-a-string) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0238-product-of-array-except-self) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3427-special-array-ii](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3427-special-array-ii) |
 ## Heap (Priority Queue)
 |  |
