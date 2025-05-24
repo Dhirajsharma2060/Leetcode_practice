@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2350-find-closest-number-to-zero](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2350-find-closest-number-to-zero) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3194-find-words-containing-character](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3194-find-words-containing-character) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3427-special-array-ii](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3427-special-array-ii) |
 | [3534-count-almost-equal-pairs-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3534-count-almost-equal-pairs-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1044-find-common-characters) |
 | [1894-merge-strings-alternately](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1894-merge-strings-alternately) |
+| [3194-find-words-containing-character](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3379-score-of-a-string) |
 ## Hash Table
 |  |
