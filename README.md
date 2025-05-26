@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0125-valid-palindrome) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0205-isomorphic-strings) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0326-power-of-three) |
