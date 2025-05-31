@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0175-combine-two-tables) |
 | [0178-rank-scores](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0178-rank-scores) |
 | [0595-big-countries](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
