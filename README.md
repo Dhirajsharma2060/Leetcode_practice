@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0326-power-of-three) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0054-spiral-matrix) |
 | [0661-image-smoother](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0661-image-smoother) |
 ## Divide and Conquer
