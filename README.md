@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0409-longest-palindrome) |
+| [0782-jewels-and-stones](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0782-jewels-and-stones) |
 | [1044-find-common-characters](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1044-find-common-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1894-merge-strings-alternately) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0409-longest-palindrome) |
+| [0782-jewels-and-stones](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0817-design-hashmap) |
 | [1044-find-common-characters](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1044-find-common-characters) |
 | [3534-count-almost-equal-pairs-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3534-count-almost-equal-pairs-i) |
