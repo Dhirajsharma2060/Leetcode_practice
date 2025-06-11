@@ -12,5 +12,5 @@ class Solution:
                 return [h[val],i]
 
 
-        #time complexity is o(n^2)
+        #time complexity is o(n)
         #space complexity is o(n)
