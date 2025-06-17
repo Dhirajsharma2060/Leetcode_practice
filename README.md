@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0205-isomorphic-strings) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0217-contains-duplicate) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0217-contains-duplicate) |
 | [1137-height-checker](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1137-height-checker) |
