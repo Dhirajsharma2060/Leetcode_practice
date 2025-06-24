@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0494-target-sum) |
 | [0661-image-smoother](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0661-image-smoother) |
 | [0817-design-hashmap](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0817-design-hashmap) |
+| [1019-squares-of-a-sorted-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1044-find-common-characters) |
 | [1063-best-sightseeing-pair](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1063-best-sightseeing-pair) |
 | [1137-height-checker](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1137-height-checker) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0217-contains-duplicate) |
+| [1019-squares-of-a-sorted-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1137-height-checker) |
 | [3534-count-almost-equal-pairs-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3534-count-almost-equal-pairs-i) |
 ## Counting Sort
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0392-is-subsequence) |
+| [1019-squares-of-a-sorted-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1894-merge-strings-alternately) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Dynamic Programming
