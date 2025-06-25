@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0494-target-sum) |
 | [0661-image-smoother](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0661-image-smoother) |
+| [0682-baseball-game](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0682-baseball-game) |
 | [0817-design-hashmap](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0817-design-hashmap) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1044-find-common-characters) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0682-baseball-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0682-baseball-game) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
