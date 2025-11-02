@@ -1,15 +1,17 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        hashmap={"}":"{",")":"(","]":"["}
-        stack=[]
-        for char in s:
-            if char not in hashmap:
-                stack.append(char)
+        hashmap={']':'[',')':'(','}':'{'}
+        stk=[]
+        for c in s :
+            if c not in hashmap:
+                stk.append(c)
             else:
-                if not stack:
+                # ek closing backet aaya hai 
+                if not stk:
                     return False
                 else:
-                    if stack.pop()!=hashmap[char]:
+                    popped=stk.pop()
+                    if popped!=hashmap[c]:
                         return False
-        return not stack            
+        return not stk                 
 
