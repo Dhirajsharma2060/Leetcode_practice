@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2350-find-closest-number-to-zero](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2350-find-closest-number-to-zero) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3194-find-words-containing-character](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3194-find-words-containing-character) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1894-merge-strings-alternately) |
 | [2427-first-letter-to-appear-twice](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2427-first-letter-to-appear-twice) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2536-determine-if-two-events-have-conflict) |
 | [3194-find-words-containing-character](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3379-score-of-a-string) |
 ## Hash Table
