@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0495-teemo-attacking) |
 | [0661-image-smoother](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0661-image-smoother) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0435-non-overlapping-intervals) |
 | [1917-maximum-average-pass-ratio](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1917-maximum-average-pass-ratio) |
 ## Sorting
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0217-contains-duplicate) |
+| [0435-non-overlapping-intervals](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0435-non-overlapping-intervals) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1137-height-checker) |
 | [3534-count-almost-equal-pairs-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3534-count-almost-equal-pairs-i) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1063-best-sightseeing-pair) |
