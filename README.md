@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0495-teemo-attacking) |
 | [0661-image-smoother](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0682-baseball-game) |
 | [0817-design-hashmap](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0817-design-hashmap) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0054-spiral-matrix) |
+| [0495-teemo-attacking](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0682-baseball-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
