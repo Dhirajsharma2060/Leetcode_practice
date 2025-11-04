@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0217-contains-duplicate) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1019-squares-of-a-sorted-array) |
