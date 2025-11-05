@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0169-majority-element) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0435-non-overlapping-intervals) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
