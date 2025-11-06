@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2350-find-closest-number-to-zero](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2350-find-closest-number-to-zero) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2692-take-gifts-from-the-richest-pile) |
