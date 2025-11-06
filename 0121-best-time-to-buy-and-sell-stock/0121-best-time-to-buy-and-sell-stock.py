@@ -1,16 +1,20 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
+        # suppose initial me min_price jho hai vho
+        min_price=prices[0]
+        #max_profit initial me 0 
         max_profit=0
-        min_profit=float('inf')
-        n=len(prices)
-        profit=0
-        for i in range(n):
-            if prices[i] < min_profit:
-                min_profit=prices[i]
-            else:
-                profit=prices[i]-min_profit
-            if profit>max_profit:
-                max_profit=max(profit,max_profit)
-        return max_profit               
+        # here we are checking each price 
+        for price in prices:
+            #price to be smallest 
+            if price<min_price:
+                min_price=price
+            #profit la calculation     
+            curr_profit=price-min_price
+            if curr_profit>max_profit:
+                max_profit=curr_profit
+        return max_profit
 
-            
+
+
+        
