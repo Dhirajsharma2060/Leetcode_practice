@@ -3,16 +3,16 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        hashmap={}
-        for num in nums:
-            if num in hashmap:
-                hashmap[num]+=1
+        start,mid=0,0
+        end=len(nums)-1
+        while mid <=end:
+            if nums[mid]==0:
+                nums[start],nums[mid]=nums[mid],nums[start]
+                start+=1
+                mid+=1
+            elif nums[mid]==1:
+                mid+=1
             else:
-                hashmap[num]=1
-        i = 0
-        for color, freq in sorted(hashmap.items()):
-            for _ in range(freq):
-                nums[i] = color
-                i += 1        
-
-       
+                nums[mid],nums[end]=nums[end],nums[mid]
+                end-=1
+                        
