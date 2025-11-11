@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0415-add-strings) |
 | [0782-jewels-and-stones](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0782-jewels-and-stones) |
 | [1044-find-common-characters](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1044-find-common-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0682-baseball-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1013-fibonacci-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
