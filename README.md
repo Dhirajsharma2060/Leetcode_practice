@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0495-teemo-attacking) |
 | [0661-image-smoother](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0661-image-smoother) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0713-subarray-product-less-than-k) |
 | [0817-design-hashmap](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0817-design-hashmap) |
