@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1044-find-common-characters) |
 | [1063-best-sightseeing-pair](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1063-best-sightseeing-pair) |
 | [1137-height-checker](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1137-height-checker) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1580-shuffle-the-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0724-find-pivot-index) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1603-running-sum-of-1d-array) |
