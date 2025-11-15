@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2058-concatenation-of-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2058-concatenation-of-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2102-find-the-middle-index-in-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2350-find-closest-number-to-zero](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2350-find-closest-number-to-zero) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2102-find-the-middle-index-in-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2102-find-the-middle-index-in-array) |
 | [3427-special-array-ii](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3427-special-array-ii) |
 ## Heap (Priority Queue)
 |  |
