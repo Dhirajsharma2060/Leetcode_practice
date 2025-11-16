@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0303-range-sum-query-immutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0435-non-overlapping-intervals](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0494-target-sum) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0713-subarray-product-less-than-k) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0191-number-of-1-bits) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -357,4 +360,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1028-interval-list-intersections) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
