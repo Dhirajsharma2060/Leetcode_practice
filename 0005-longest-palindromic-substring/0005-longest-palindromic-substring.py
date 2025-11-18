@@ -1,22 +1,13 @@
-#this is the bute force approach
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        def isPalindrome(sub:str)->bool:
-            return sub==sub[::-1]
-        
-        n=len(s)
-        if n<=1:
+        if len(s)==1:
             return s
-
-        result=""
-        if s==1:
-            result+=s
+        n=len(s)    
+        longest=s[0]
         for i in range(n):
-            for j in range(i,n):
-                substring = s[i:j+1]
-                if isPalindrome(substring) and len(substring)>len(result):
-                    result=substring
-        return result             
-
-
-        
+            for j in range(i+1,n):
+                substr=s[i:j+1]
+                if substr==substr[::-1]:
+                    if len(substr)>len(longest):
+                        longest=substr
+        return longest                
