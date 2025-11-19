@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2102-find-the-middle-index-in-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2350-find-closest-number-to-zero](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2350-find-closest-number-to-zero) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0817-design-hashmap) |
 | [1044-find-common-characters](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1044-find-common-characters) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2427-first-letter-to-appear-twice](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2427-first-letter-to-appear-twice) |
 | [3324-split-the-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3324-split-the-array) |
 | [3534-count-almost-equal-pairs-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3534-count-almost-equal-pairs-i) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1137-height-checker) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3534-count-almost-equal-pairs-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3534-count-almost-equal-pairs-i) |
 ## Counting Sort
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2058-concatenation-of-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
