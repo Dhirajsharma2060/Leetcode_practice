@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0724-find-pivot-index) |
 | [0817-design-hashmap](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0817-design-hashmap) |
 | [0875-longest-mountain-in-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0875-longest-mountain-in-array) |
+| [0904-fruit-into-baskets](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0941-sort-array-by-parity](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1019-squares-of-a-sorted-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0817-design-hashmap) |
+| [0904-fruit-into-baskets](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0904-fruit-into-baskets) |
 | [1044-find-common-characters](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1044-find-common-characters) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2427-first-letter-to-appear-twice](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2427-first-letter-to-appear-twice) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0904-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Line Sweep
 |  |
