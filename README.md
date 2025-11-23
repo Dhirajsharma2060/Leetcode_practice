@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0724-find-pivot-index) |
 | [0817-design-hashmap](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0817-design-hashmap) |
 | [0875-longest-mountain-in-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0875-longest-mountain-in-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0941-sort-array-by-parity](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1028-interval-list-intersections) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0494-target-sum) |
 | [0875-longest-mountain-in-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0875-longest-mountain-in-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1063-best-sightseeing-pair) |
 ## Math
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0191-number-of-1-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -390,4 +393,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
