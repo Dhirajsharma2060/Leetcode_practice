@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0941-sort-array-by-parity](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0941-sort-array-by-parity) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1028-interval-list-intersections) |
 | [1044-find-common-characters](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1044-find-common-characters) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0645-set-mismatch) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2427-first-letter-to-appear-twice](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/2427-first-letter-to-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Trie
