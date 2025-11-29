@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [0875-longest-mountain-in-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0875-longest-mountain-in-array) |
+| [0876-middle-of-the-linked-list](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0876-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1028-interval-list-intersections) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0206-reverse-linked-list) |
 | [0817-design-hashmap](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0817-design-hashmap) |
+| [0876-middle-of-the-linked-list](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
