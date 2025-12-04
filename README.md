@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [0875-longest-mountain-in-array](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0875-longest-mountain-in-array) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0682-baseball-game) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [0817-design-hashmap](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0817-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Dhirajsharma2060/Leetcode_practice/tree/master/1013-fibonacci-number) |
