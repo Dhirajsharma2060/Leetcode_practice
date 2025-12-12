@@ -13,10 +13,10 @@ class Solution:
             fast=fast.next.next
             if slow==fast:
                 #when they meet will use the different pointer one at the head andioither with the taxi
-                ptr1=head
-                ptr2=slow
-                while ptr1!=ptr2:
-                    ptr1=ptr1.next
-                    ptr2=ptr2.next
-                return ptr1
+                # ptr1=head
+                # ptr2=slow
+                while head!=slow:
+                    head=head.next
+                    slow=slow.next
+                return slow
         return None        
